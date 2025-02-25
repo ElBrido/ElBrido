@@ -1,6 +1,6 @@
 ## Brido👋
 
-Me presento soy Angel tengo 15 años 
+Me presento soy **Angel** tengo 15 años 
 * me gustan los videojuegos
 * quiero aprender a programar entre otros
 * estudio actualmente en la preparatoria
