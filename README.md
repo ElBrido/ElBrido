@@ -1,7 +1,9 @@
 ## Brido👋
 
-Me presento soy Angel tengo 15 años, me gustan los videojuegos
-quiero aprender a programar entre otros, estudio actualmente en la preparatoria
+Me presento soy Angel tengo 15 años 
+* me gustan los videojuegos
+* quiero aprender a programar entre otros
+* estudio actualmente en la preparatoria
 
 <!--
 **ElBrido/ElBrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
